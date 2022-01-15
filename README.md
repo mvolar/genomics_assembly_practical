@@ -20,4 +20,4 @@ https://docs.microsoft.com/en-us/windows/wsl/install
 
 On Linux everything should be running natively without any need for intervention
 
-In order to check if everything works try downloading executing and running the test as described here: https://github.com/lh3/minimap2
+
