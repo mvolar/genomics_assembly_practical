@@ -3,7 +3,7 @@
 Requirements
 ---
 
-Since most of you job as a Bioinfomratican will be downloading finding and checking other peoples repositories and using their readily available code from github. So in order to save tame on the practical your job will be to get everything needed up and running.
+Since most of you job as a Bioinforatician will be downloading finding and checking other peoples repositories and using their readily available code from github. So in order to save tame on the practical your job will be to get everything needed up and running.
 
 Depending on your OS, as you already know you have 3 variants:
 
