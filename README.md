@@ -1,4 +1,4 @@
-# genomics_assembly_practical
+# terminal_basics
 
 Links:
 
